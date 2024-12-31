@@ -31,10 +31,17 @@ You can click the Preview link to take a look at your changes.
 - 上班電腦裝 Vivado 玩貴鬆鬆的 Xilinx FPGA 開發版。
 - 同事離職前推薦我接手他的 FPGA 專案，從此掉入火坑(原本我只協助驗證)。
 - 工作中使用 Verilog 維護過 PCIE、AXI BUS、Trigger Latch、MCU Log 專案。
-- 我跟我的主管一個敢寫、一個敢用，總之這些功能已經有客戶正在使用。 
+- 我跟我的主管一個敢寫、一個敢用，總之這些功能已經有客戶正在使用。
+
+### 其他的故事
+- 下班後喜歡宅圖書館，邊宅邊當志工回饋社會。
+- 我不只有志工證，當前已經取得榮譽志工證，超過 3 年 300 小時。
+- 主要協助特教學生完成課業，至今從未與學生發生爭吵或衝突。
+- 最後我領養的三花貓真的會後空翻，每天都會迎接我回家。
+
 
 ## 📊 LeetCode 統計
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kevinchen850913?theme=light&font=Encode%20Sans%20Semi%20Expanded)
 
 ## 📝 部落格
-- [Kevin的學習筆記](https://kevinchen850913.github.io/)
+![Kevin的學習筆記](https://kevinchen850913.github.io/)
