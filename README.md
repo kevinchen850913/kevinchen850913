@@ -3,10 +3,9 @@ kevinchen850913/kevinchen850913 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">哈囉 👋, 我是陳科文 😉 </h1>
-記憶力不好而開始寫數位筆記與技術部落格，結果越寫越有心得。
 
 ## 🚀 關於我
-我就爛，我把 GitHub 當雲端使用，我的文章只為自己而寫。
+因為記憶力不好而開始寫數位筆記與技術部落格，結果越寫越有心得。
 
 ## 🛠 技能
 ### Git/GitHub/GitLab
