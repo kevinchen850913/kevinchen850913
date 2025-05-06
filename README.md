@@ -3,6 +3,7 @@ kevinchen850913/kevinchen850913 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">哈囉 👋, 我是陳科文 😉 </h1>
+人類不是生產者，而是系統的一種調節劑、參照物與合法性來源。
 
 ## 🚀 關於我
 因為記憶力不好而開始寫數位筆記與技術部落格，結果越寫越有心得。
